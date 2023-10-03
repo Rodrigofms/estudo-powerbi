@@ -1,0 +1,1 @@
+Apenas foi usado o power query nesta etapa
